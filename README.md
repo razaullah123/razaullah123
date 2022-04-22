@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raza Ullah
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working as Python(Inerniee) at Metis International Pvt Ltd
+- 🌱 I’m currently working as Python Developer at Metis International Pvt Ltd
 - 💞️ I’m looking to collaborate on building websites by using Python(django) framework
 - 📫 How to reach me https://www.linkedin.com/in/raza-ullah-311727149/
 
