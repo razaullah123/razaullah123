@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raza Ullah
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working as Associate Python Developer at International Medical Corps
+- 🌱 I’m currently working a AI/Backend Developer at Truemeridian.
 - 💞️ I’m looking to collaborate on building websites by using Python(django) framework
 - 📫 How to reach me https://www.linkedin.com/in/raza-ullah-311727149/
 
